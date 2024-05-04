@@ -1,0 +1,13 @@
+In open source contribution there are several step that we need to follow
+
+steps -
+   1) find a good open source project like fork it
+   2) when you fork that you can crate a copy of that project on your local system
+   3) make changes in the code and commit those changes
+   4) push those changes back to your forked repository
+   5) create pull request from your forked repo to original repo
+   6) reviewers will check your code and give feedback
+   7) if they accept then merge your code with theirs or else you have to fix the issues
+   8) once merged you get your name as contributor
+   
+     

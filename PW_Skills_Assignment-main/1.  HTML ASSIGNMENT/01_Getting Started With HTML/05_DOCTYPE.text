@@ -1,0 +1,7 @@
+DOCTYPE html - DOCTYPE basically define version of HTML so as we know our current version is HTML5
+               and it also helps browser to how our structure should be render on our web page accuralty
+               also help in cross browser capability etc
+
+
+
+Exemple -   <!DOCTYPE html>             - this is how we write  (syntax)

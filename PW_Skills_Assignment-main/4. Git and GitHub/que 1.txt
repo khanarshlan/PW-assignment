@@ -1,0 +1,10 @@
+explain version control and importance ??
+
+Version control and importance :-
+
+        In software development version control is most import thing like if we are building a software then 
+        it's very important to keep track of changes so as that we can revert them we need for example
+        if by mistake we push a bug or some wrong code so git help us to track that and we revert back to our 
+        previous version also git provide collaborative working so we can work with multiple developers
+        so its very import to learn git for a developers to track version to work in team and thats why it
+        makes very important for a developer

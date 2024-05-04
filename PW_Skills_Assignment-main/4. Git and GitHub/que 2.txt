@@ -1,0 +1,17 @@
+explain git workflow -
+            if we have to work as a collaborative with multiple people and with a the different branches 
+            then here are the step that we need >>
+            1) its good to use git status before we start a project 
+            2) then we have initialize git using git init command
+            3) also again for to check use git status 
+            4) there so much to discuss about git branches but in a simple term
+               we have one main branch and other branches to add new feature to our 
+               website or software
+            5) how after we work we can merge by resolving the conflict in the code 
+            6) so we done all of these now its time to commit and push our code to main branch
+            7) for that we git commit -m then msg this command and git push / pull etc
+            8) and this whole process repeat again and again 
+            9) staging area - when we commit our code then it goes to staging area 
+            10) working directory - if file that we copy form git repository to work and make changes
+            11) repository - its like folder that we create on gitHub
+

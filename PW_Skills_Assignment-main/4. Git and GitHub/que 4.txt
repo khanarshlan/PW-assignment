@@ -1,0 +1,12 @@
+GitHub -
+        gitHub is the service that provide and allow to work with different people also with 
+        their repositories. It's a platform where you can store your code, collaborate on
+        projects or build your application there multiple feature that provided by github 
+        like github pages where you can host your static website and get experience of hosting 
+        websites in cloud. Github provides many features for developers like version control,
+        issue tracking, pull requests, wikis etc. So it's very useful tool for developer community.
+
+alternative of github service -
+        git bucket
+        git lab
+        bean stack  etc

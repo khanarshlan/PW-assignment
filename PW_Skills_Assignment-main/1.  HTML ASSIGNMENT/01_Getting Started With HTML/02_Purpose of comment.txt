@@ -1,0 +1,40 @@
+HTML comments - in HTML we use comment to understand other developer that which section is looking for 
+                is clarify that the purpose of that psecific code so for new developer they not need to 
+                read code and understand using comment we can easily read. it also help in debugging,
+                collaboration etc.
+
+
+
+Here is the Exmaple :- 
+
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sample Program of HTML</title>
+</head>
+
+<body>
+
+    <!-- This is Heading Section  -->
+    <h1> This is the heading of web page</h1>
+    
+    <!-- This is Main Section  -->
+
+     <main>
+     *content
+     </main>
+     
+    <!-- This is footer Section  -->
+    
+    <footer>
+    *content
+    </footer>
+
+
+</body>
+
+</html>

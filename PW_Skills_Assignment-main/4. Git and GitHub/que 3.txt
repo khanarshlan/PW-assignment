@@ -1,0 +1,7 @@
+explain gitignore -
+        some file like node module or may be security related files those which we cannot 
+        want to show i mean to push those file we can keep in gitignore file so as that 
+        if we want to push all file using git command that is git add . so gitignore prevent
+        those file that and not push by git and thats why its very import to have gitignore
+        while building a project 
+        
